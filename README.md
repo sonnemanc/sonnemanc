@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonnemanc
-- 
+
 - 🌱 I’m currently mastering React Redux framework in my Leaffit app
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at sonnemanc@gmail.com
