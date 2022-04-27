@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Corban
 
 - 🌱 I’m currently mastering React Redux framework in my Leaffit app
-- 💞️ I’m looking to collaborate on projects
+- 💞️ Some of my other projects include the two-part jsHikingApp, divingapp, or my Brewery-guide
 - 📫 Reach me at sonnemanc@gmail.com
 
 <!---
