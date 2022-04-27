@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonnemanc
+- 👋 Hi, I’m Corban
 
 - 🌱 I’m currently mastering React Redux framework in my Leaffit app
 - 💞️ I’m looking to collaborate on projects
