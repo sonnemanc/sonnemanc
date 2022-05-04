@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Corban
 
-- 🌱 I’m currently practicing my Data Structures and Algorithms.
-- 💞️ Some of my other projects include the two-part jsHikingApp, divingapp, or my Brewery-guide.
+- 🌱 I’m currently collaborating on a mock website for a clinic.
+- 💞️ Some of my other projects include the two-part jsHikingApp, divingapp, Leaffit, or my Brewery-guide.
 - Watch my demos on Youtube! https://www.youtube.com/channel/UC5SyMM6NGksKIIg-zzH-gwQ
 - 📫 Reach me at sonnemanc@gmail.com
 
