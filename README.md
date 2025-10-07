@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Corban
 
 - 🌱 I’m currently working on playwright automations but you can find my personal projects down below!
-- 💞️ Some of my other projects include the two-part jsHikingApp, divingapp, or my Brewery-guide.
 - Watch my demos on Youtube! https://www.youtube.com/channel/UC5SyMM6NGksKIIg-zzH-gwQ
 - 📫 Reach me at sonnemanc@gmail.com
 
