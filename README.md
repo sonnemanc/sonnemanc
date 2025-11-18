@@ -6,7 +6,7 @@
 
 - 📫 Reach me at sonnemanc@gmail.com
 
-Based in sunny San Diego 🌞  
+- 🌞 Based in sunny San Diego 
 
 <!---
 sonnemanc/sonnemanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
