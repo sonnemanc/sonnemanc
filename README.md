@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corban
 
-- 🌱 I’m currently working on playwright automations but you can find my personal projects down below!
+- 🌱 I’m currently working on playwright automations with CLICS but you can find my personal projects down below!
 - Watch my demos on Youtube! https://www.youtube.com/channel/UC5SyMM6NGksKIIg-zzH-gwQ
 - 📫 Reach me at sonnemanc@gmail.com
 
